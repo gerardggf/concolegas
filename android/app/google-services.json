@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "483943647549",
+    "project_id": "con-colegas",
+    "storage_bucket": "con-colegas.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:483943647549:android:b216c1e4bcfe2017651d54",
+        "android_client_info": {
+          "package_name": "com.example.concolegas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "483943647549-8l9td84j3ga06jdnma9c8sn97s72pkon.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdiIHVhKGC6oCWe8LDau7O88eq8NbKyJQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "483943647549-8l9td84j3ga06jdnma9c8sn97s72pkon.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
